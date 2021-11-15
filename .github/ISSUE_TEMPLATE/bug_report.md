@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report when something isn't working
 title: ''
 labels: bug
-assignees: yasandev
+assignees: ''
 
 ---
 
