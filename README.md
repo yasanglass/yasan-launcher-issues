@@ -1,5 +1,5 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/YASAN)](https://twitter.com/YASAN)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/YASANLauncher?style=social)](https://www.reddit.com/r/YASANLauncher/)
+![Open Issues](https://img.shields.io/github/issues-raw/yasandev/yasan-launcher-issues?label=Open%20Issues)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/yasandev/yasan-launcher-issues?label=Closed%20Issues)
 
 A place to submit feature requests & bug reports for [YASAN Launcher](https://play.google.com/store/apps/details?id=yasan.space.mnml.ai.launcher&hl=en&gl=US). Internal tasks are also managed here.
 
