@@ -1,3 +1,4 @@
+[![Crowdin](https://badges.crowdin.net/yasan-launcher/localized.svg)](https://crowdin.com/project/yasan-launcher)
 ![Open Issues](https://img.shields.io/github/issues-raw/yasandev/yasan-launcher-issues?label=Open%20Issues)
 ![Closed Issues](https://img.shields.io/github/issues-closed-raw/yasandev/yasan-launcher-issues?label=Closed%20Issues)
 
